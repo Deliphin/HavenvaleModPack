@@ -1,0 +1,96 @@
+This is a full list in the currently installed Havenale modpack.
+All mods with the license All Rights Reserved, or another problematic license, has their
+evidence distributed in a Permissions.tar.gz file in the same folder as this text file.
+Authors are separated by spaces. In the event we add a mod with a developer who has a
+space in their username, we will switch to comma separation.
+
+This modpack is assembled by the Havenvale server staff, and is intended for use with the
+Havenale server.
+
+__________________________________________________________________________________________
+MOD/RESOURCE NAME				VERSION			LICENSE					AUTHORS
+
+		WORLD
+Cubic Chunks									MIT License				Barteks2k
+CubicWorldGen									MIT License				Barteks2k
+
+
+
+		UTILITY
+Charset Storage - Barrels						GNU LGPL v3				asiekierka
+Charset Storage - Chests						GNU LGPL v3				asiekierka
+Charset Storage - Locks							GNU LGPL v3				asiekierka
+Charset Storage - Tanks							GNU LGPL v3				asiekierka
+Chisel											GNU GPL v2				tterrag1098 Drullkus Minecreatr
+Chisel & Bits									GNU LGPL v3				AlgorithmX2
+Ender Storage 1.8+								MIT License				covers1624 chicken_bones ecutruin
+Iron Chests										GNU GPL v3				progwml6 Alexbegt
+SimpleLogic Gates								GNU LGPL v3				asiekierka
+SimpleLogic Wires								GNU LGPL v3				asiekierka mDiyo boni jadedcat KnightMiner
+
+
+
+		CONVENIENCE
+Ding											All Rights Reserved		Lumien
+Hwyla											CC BY-NC-SA 4.0			TehNut
+Inventory Tweaks								MIT License				Kobata
+Ion Chests										All Rights Reserved		asiekierka
+Just Enough Items								MIT License				mezz
+
+
+
+		COSMETIC
+ConnectedTexturesMod							GNU GPL v3				tterrag1098 Drullkus Minecreatr
+Custom Main Menu								All Rights Reserved		Lumien
+Flat Colored Blocks								GNU LGPL v3				AlgorithmX2
+Sound Filters									All Rights Reserved		Tmtravlr
+Splash Animation								GNU LGPL v3				asiekierka
+Tip The Scales									MIT License				jaredlll08
+
+
+
+		PERFORMANCE
+BetterFps										GNU LGPL v2.1			Guichaguri
+Clumps											MIT License				jaredlll08
+FoamFix for Minecraft							GNU LGPL v3				asiekierka
+VanillaFix										MIT License				Runemoro ZombieHDGaming
+
+
+
+		LIBRARY
+AutoRegLib										WTFPL					Vazkii
+BASE											MIT License				lanse505 EwyBoy jaredlll08 SkySom warlordjones Yulife
+Charset Lib										GNU LGPL v3				asiekierka
+CodeChickenLib 1.8+								GNU LGPL v2.1			covers1624 chicken_bones
+Mantle											MIT License				mDiyo Alexbegt Arkan bonifuj1n progwml6
+MalisisCore										MIT License				Ordinastie
+MCMultiPart										MIT License				amadornes therealfarfetchd
+MTLib											MIT License				jaredlll08
+
+
+
+		RESOURCE PACK
+Better Storage									MIT License				copygirl
+	Textures used on Iron Chests' Chests.
+Breeze											GNU GPL v2				KDE
+	Not a mod, not even used directly. Used as inspiration for Quark's cursor.
+Mizuno's 16 Craft*								CC-BY-NC-SA 4.0			Mizuno
+	*Using various animal textures for Quark's random mob textures.
+	Specifically: cow as cow7, chicken as chicken5.
+Jolicraft										All Rights Reserved?	André Jolicuoeur Illustration
+	Using various animal textures for Quark's random mob textures.
+	Specifically: cow as cow10, pig as pig2, pig2 as pig3, chicken as chicken4.
+
+
+
+		OTHER
+Chunk Animator								MIT License				Lumien
+ContentTweaker								MIT License				jaredlll08 lanse505 SkySom
+CraftTweaker								Custom*					jaredlll08 kindlich stanH
+	*https://github.com/CraftTweaker/CraftTweaker/blob/1.12/LICENSE
+Default Options								MIT License				BlaytheNinth
+ModTweaker									MIT License				jaredlll08
+Wearable Backpacks							MIT License				InsmoniaKitten asiekierka buildcraftchildsplay copygirl mindlesspuppetz PuppetzMedia
+Quark										CC BY-NC-SA 3.0			Vazkii
+
+

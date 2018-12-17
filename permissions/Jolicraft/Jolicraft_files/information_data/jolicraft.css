@@ -1,0 +1,55 @@
+html,body {
+	background: url(images/background.gif) top center no-repeat;
+	background-color: #fff;
+	text-align:center;
+	margin-top: 0px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size:12px;
+}
+#wrapper {
+	width: 650px;
+	text-align:left;
+	margin:0 auto;
+}
+
+img {
+	border:0;
+}
+
+a.jcdownload {display: block; width: 309px; height: 195px; text-indent: -5000px; background:url(images/jcdownload.png); text-decoration:none; float:left;}
+a:hover.jcdownload {background-position: -309px 0px;}
+a.sujcdownload {display: block; width: 110px; height: 133px; text-indent: -5000px; background:url(images/sujcdownload.png); text-decoration:none; float:left;}
+a:hover.sujcdownload {background-position: -110px 0px;}
+a.spjcdownload {display: block; width: 107px; height: 133px; text-indent: -5000px; background:url(images/spjcdownload.png); text-decoration:none; float:left;}
+a:hover.spjcdownload {background-position: -107px 0px;}
+a.snjcdownload {display: block; width: 92px; height: 133px; text-indent: -5000px; background:url(images/snjcdownload.png); text-decoration:none; float:left;}
+a:hover.snjcdownload {background-position: -92px 0px;}
+
+
+a.download {display: block; width: 161px; height: 44px; text-indent: -5000px; background:url(images/download.gif); text-decoration:none; float:left; margin-right: 5px; margin-left: 5px;}
+a:hover.download {background-position: -161px 0px;}
+a.customize {display: block; width: 166px; height: 44px; text-indent: -5000px; background:url(images/customize.gif); text-decoration:none; float:left; margin-right: 5px;}
+a:hover.customize {background-position: -166px 0px;}
+a.gallery {display: block; width: 126px; height: 44px; text-indent: -5000px; background:url(images/gallery.gif); text-decoration:none; float:left; margin-right: 5px;}
+a:hover.gallery {background-position: -126px 0px;}
+a.information {display: block; width: 176px; height: 44px; text-indent: -5000px; background:url(images/information.gif); text-decoration:none; float:left;}
+a:hover.information {background-position: -176px 0px;}
+a.andrejolicoeur {display: block; width: 371px; height: 25px; text-indent: -5000px; background:url(images/andrejolicoeur.gif); text-decoration:none; float:left; margin-left: 130px;}
+a:hover.andrejolicoeur {background-position: -371px 0px;}
+
+a:link {
+	color: #099;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #099;
+}
+a:hover {
+	text-decoration: none;
+	color: #000;
+}
+a:active {
+	text-decoration: none;
+	color: #099;
+}
